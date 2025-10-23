@@ -1,6 +1,6 @@
 # 👋 Hi, I’m Paloma Cordeiro  
 
-💻 Full Stack Development student | Data & Analytics professional with 10+ years of experience.  
+💻 Full Stack Development student | Data & Analytics professional with 5+ years of experience.  
 📊 Passionate about Business Intelligence, Data Engineering, and building end-to-end digital solutions.  
 
 ---
