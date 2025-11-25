@@ -1,71 +1,92 @@
-# 👋 Hi, I’m Paloma Cordeiro  
-
-💻 Full Stack Development student | Data & Analytics professional with 5+ years of experience.  
-📊 Passionate about Business Intelligence, Data Engineering, and building end-to-end digital solutions.  
-
----
-
-## 🚀 Tech Stack  
-
-#### 🌐 Frontend  
-![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+# 👋 Hi, I'm Paloma Cordeiro  
+📊 Data & Analytics professional with 3+ years of experience  
+🎯 Focused on extracting insights from data and building intelligent, data-driven solutions.
 
 ---
 
-#### ⚙️ Backend  
-![NodeJS](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
+## 🚀 About Me  
+I'm a data professional passionate about transforming raw data into actionable insights. With a strong foundation in Business Intelligence and Data Engineering, I'm now expanding my expertise into Machine Learning and advanced analytics to solve complex business problems through data science.
+
+**Current Focus:**
+- 🤖 Machine Learning model development and deployment
+- 📈 Advanced statistical analysis and predictive modeling
+- 🔄 End-to-end ML pipelines and MLOps practices
+- 🧪 Experimenting with deep learning frameworks
+
+---
+
+## 🛠️ Tech Stack  
+
+#### 🧠 Data Science & Machine Learning  
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-
----
-
-#### 🧠 Data Science & Analytics  
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
 ![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
+![Scikit-learn](https://img.shields.io/badge/Scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
+![XGBoost](https://img.shields.io/badge/XGBoost-FF6600?style=for-the-badge&logo=xgboost&logoColor=white)
+![Random Forest](https://img.shields.io/badge/Random_Forest-2E7D32?style=for-the-badge&logo=scikit-learn&logoColor=white)
+![SciPy](https://img.shields.io/badge/SciPy-8CAAE6?style=for-the-badge&logo=scipy&logoColor=white)
+
+---
+
+#### 📊 Data Visualization & BI  
 ![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=plotly&logoColor=white)
 ![Seaborn](https://img.shields.io/badge/Seaborn-5A9BD5?style=for-the-badge&logoColor=white)
-![Scikit-learn](https://img.shields.io/badge/Scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
+![Plotly](https://img.shields.io/badge/Plotly-3F4F75?style=for-the-badge&logo=plotly&logoColor=white)
 ![Power BI](https://img.shields.io/badge/PowerBI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
+![Tableau](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white)
 
 ---
 
-#### 🗄️ Databases  
-![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
+#### 🗄️ Data Engineering & Databases  
 ![SQL Server](https://img.shields.io/badge/Microsoft_SQL_Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
+![Apache Spark](https://img.shields.io/badge/Apache_Spark-E25A1C?style=for-the-badge&logo=apachespark&logoColor=white)
+![Apache Airflow](https://img.shields.io/badge/Apache_Airflow-017CEE?style=for-the-badge&logo=apacheairflow&logoColor=white)
 
 ---
 
-#### ⚙️ DevOps & Automation  
-![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white)
+#### ☁️ Cloud & MLOps  
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
-![Apache Airflow](https://img.shields.io/badge/Apache_Airflow-017CEE?style=for-the-badge&logo=apacheairflow&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white)
 ![Terraform](https://img.shields.io/badge/Terraform-7B42BC?style=for-the-badge&logo=terraform&logoColor=white)
-![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white)
-![CI/CD](https://img.shields.io/badge/CI/CD-A42E2B?style=for-the-badge&logo=gitlab&logoColor=white)
-
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white)
 
 ---
 
-#### 🧰 Dev Tools  
+#### 🧰 Development Tools  
+![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 
+---
+
+## 📈 What I'm Currently Working On  
+- 🔬 Building machine learning models for classification, regression, and clustering problems
+- 📊 Developing interactive dashboards and data visualizations for business stakeholders
+- 🚀 Implementing MLOps pipelines for model deployment and monitoring
+- 📚 Deepening knowledge in deep learning, NLP, and computer vision
+- 🌐 Contributing to open-source data science projects
 
 ---
 
-## 📈 What I’m currently working on  
-- Learning **Full Stack Development** (Frontend + Backend + Databases + Cloud).  
-- Building projects that combine **Web Development + Data Analytics**.  
-- Exploring **end-to-end digital solutions** that deliver business value.  
+## 💼 Professional Highlights  
+- 3+ years of experience in data analytics and business intelligence
+- Expertise in data pipeline development and ETL processes
+- Strong background in SQL, Python, and statistical analysis
+- Proven track record of translating complex data into actionable business insights
 
 ---
 
-## 📫 Let’s connect  
-- LinkedIn: [Paloma Cordeiro](https://www.linkedin.com/in/paloma-cordeiro-119750b6)  
-- Email: palomacordeiro2009@hotmail.com  
+## 📫 Let's Connect  
+- 💼 LinkedIn: [Paloma Cordeiro](https://www.linkedin.com/in/paloma-cordeiro-119750b6)  
+- 📧 Email: palomacordeiro2009@hotmail.com  
+- 🐙 GitHub: You're already here! Feel free to explore my projects.
+
+---
+
+⭐️ *Open to collaborations on data science projects and always eager to learn new technologies!*
