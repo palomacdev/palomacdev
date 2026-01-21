@@ -1,7 +1,8 @@
 # 👋 Hi, I'm Paloma Cordeiro  
 📊 Data & Analytics professional with 3+ years of experience  
 🎯 Focused on extracting insights from data and building intelligent, data-driven solutions.
-
+> ⚠️ **Note:** This is my primary account, for lab/secondary account with experimental projects and prototypes.
+> Please visit **[@palomahub-arch](https://github.com/palomahub-arch)**.
 ---
 
 ## 🚀 About Me  
