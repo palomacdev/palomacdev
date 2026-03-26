@@ -39,6 +39,7 @@ I don't just build models — I build the systems around them.
 - XGBoost selected over Random Forest based on lower prediction error and stronger generalization
 - Race simulation engine modeling strategy scenarios and tire degradation
 - SHAP explainability for model interpretation and validation
+- Built custom feature engineering using telemetry, track characteristics, and driver performance history
 
 🔗 [palomacdev/f1-project](https://github.com/palomacdev/f1-project)
 
