@@ -18,7 +18,7 @@ I don't just build models — I build the systems around them.
 - ROC-AUC improved from 0.53 → 0.77 through feature engineering within the streaming pipeline
 - Fully reproducible environment via Docker Compose with domain-based service architecture
 
-🔗 [palomahub-arch/ml-lab](https://github.com/palomacdev/ml-lab)
+🔗 [palomacdev/ml-lab](https://github.com/palomacdev/ml-lab)
 
 ---
 
@@ -29,7 +29,7 @@ I don't just build models — I build the systems around them.
 - Enables full-text search across race communications via structured MongoDB indexing
 - Production-level repo: MIT license, contributing guidelines, modular codebase
 
-🔗 [palomahub-arch/openf1-transcribe](https://github.com/palomacdev/openf1-transcribe)
+🔗 [palomacdev/openf1-transcribe](https://github.com/palomacdev/openf1-transcribe)
 
 ---
 
