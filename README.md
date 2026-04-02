@@ -75,6 +75,8 @@ I don't just build models — I build the systems around them.
 ## 📊 GitHub Stats
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=palomacdev&theme=tokyonight&hide_border=true&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats)
+
+#### Visitors 
 ![Visitors](https://komarev.com/ghpvc/?username=palomacdev&style=for-the-badge&color=E10600&label=VISITORS)
  
 
