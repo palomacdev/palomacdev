@@ -41,7 +41,7 @@ I don't just build models — I build the systems around them.
 - SHAP explainability for model interpretation and validation
 - Built custom feature engineering using telemetry, track characteristics, and driver performance history
 
-🔗 [palomacdev/f1-project](https://github.com/palomacdev/f1-project)
+🔗 [palomacdev/f1-project](https://github.com/palomacdev/drs_data)
 
 ---
 
