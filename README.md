@@ -71,6 +71,14 @@ I don't just build models — I build the systems around them.
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
 
 ---
+## 🎯 Current Focus
+
+- Machine Learning for real-time decision systems  
+- MLOps and model lifecycle in production  
+- Feature engineering on streaming data  
+- Motorsport analytics and simulation systems
+
+---
 
 ## 📊 GitHub Stats
 
