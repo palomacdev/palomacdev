@@ -1,29 +1,45 @@
+![Paloma Cordeiro — Software Engineer and Tech Lead](assets/profile-banner.svg)
+
 # Hi, I'm Paloma Cordeiro 👋
 
-**Software Engineer & Tech Lead** building products where backend engineering, data, and thoughtful interfaces meet.
+**Software Engineer & Tech Lead** — backend, data, and full-stack product development.
 
-I work across architecture, APIs, data pipelines, and product delivery. My background in data and machine learning shapes how I approach software: define the problem, build a reliable system, and measure what it actually does.
+I care about the decisions behind a system: who owns the data, what happens when something fails, how a result can be reproduced, and whether the product is actually useful to the person on the other side of the screen.
 
-## Selected work
+📍 Based in Brazil · 🛠️ Python, TypeScript, PostgreSQL — and a lot of curiosity
 
-| Project | What I'm building |
-| --- | --- |
-| **[OpenWEC](https://github.com/palomacdev/openwec)** · [live site](https://openwec.com) | An open endurance racing data platform with historical race data, a FastAPI API, Python SDK, and React dashboard. |
-| **Formula 1 analytics** | A private research and engineering project for qualifying prediction and race analysis, with an emphasis on temporal validity, reproducible evaluation, and honest model comparisons. |
-| **Talos** | An application monitoring product for HTTP, SSL, and heartbeat checks, incident lifecycles, and alerts. In development. |
-| **Argos** | A CRM focused on pipeline visibility and the next action in a sales process. In development. |
-| **[PLOT](https://heavenverso.com.br)** | A digital studio creating websites for authors and their fictional worlds. Heavenverso is a live example of the work. |
+---
 
-I also explore streaming and ML systems in [ml-lab](https://github.com/palomacdev/ml-lab), a Kafka, Spark, and MLflow project.
+## 🔓 Open source & live products
 
-## How I work
+| Project | What it shows |
+|---|---|
+| **[OpenWEC](https://github.com/palomacdev/openwec)** ([live](https://openwec.com)) | Endurance racing data across five series — collection pipelines, PostgreSQL, a FastAPI API, a Python SDK, and a React dashboard. Public repo and live product, end to end. |
+| **[PLOT / Heavenverso](https://heavenverso.com.br)** | A live author website built as its own digital world. PLOT is my studio for author sites — product thinking, editorial design, and frontend engineering combined. |
+| **[ml-lab](https://github.com/palomacdev/ml-lab)** | A reproducible Kafka + Spark + MLflow environment for streaming data and fraud detection experiments — limits and next steps documented in the repo. |
 
-- **Backend & data:** Python, Django, FastAPI, PostgreSQL, SQL, Kafka, Spark.
-- **Frontend:** React, TypeScript, Astro.
-- **Delivery:** Docker, CI, automated tests, documentation, and careful operational handoffs.
+## 🔒 Products & research in progress
+*(private repositories — descriptions reflect the work, not public availability)*
 
-I like clear boundaries, small verifiable steps, and systems that remain understandable after the first release. My projects range from motorsport data to business software and literary experiences; the common thread is turning complex ideas into useful products.
+| Project | Focus |
+|---|---|
+| **Alphecca** | Multi-tenant quotation SaaS — org-scoped data access, role-based permissions, backend-owned monetary calculations, versioned proposals. |
+| **Talos** | Application monitoring via HTTP, SSL, and heartbeat checks — observations feed monitor state, incident lifecycles, and alerts, with tenant isolation. |
+| **Argos** | A CRM built around the commercial loop: opportunity → activity → next action → outcome, without unnecessary ceremony. |
+| **Asterism** | A local-first personal knowledge graph — portable Markdown sources, provenance tracking, graph relationships, and assisted extraction. |
+| **F1 Analytics** | Private research into qualifying prediction and race analysis, with a focus on reproducible evaluation before trusting any forecast. |
 
-## Connect
+---
 
-[LinkedIn](https://www.linkedin.com/in/paloma-cordeiro-119750b6) · [Email](mailto:palomacordeiro2009@hotmail.com) · [OpenWEC](https://openwec.com)
+## How I engineer
+
+- **Make boundaries explicit** — in Alphecca and Argos, organization ownership lives in the data model and API behavior, not a filter bolted on at the end.
+- **Keep evidence close to decisions** — OpenWEC exposes reusable race data; Talos stores raw observations before deciding what an incident means.
+- **Ship the whole experience** — schema, API, interface, tests, deployment, docs. PLOT and OpenWEC are different flavors of the same habit.
+
+**Tools:** Python · Django · FastAPI · React · TypeScript · Astro · PostgreSQL · Redis · Kafka · Spark · Docker · pytest · Playwright
+
+---
+
+📫 [LinkedIn](https://www.linkedin.com/in/paloma-cordeiro-119750b6) · [Email](mailto:palomacordeiro2009@hotmail.com) · [OpenWEC](https://openwec.com)
+
