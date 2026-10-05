@@ -6,7 +6,7 @@
 
 I care about the decisions behind a system: who owns the data, what happens when something fails, how a result can be reproduced, and whether the product is actually useful to the person on the other side of the screen.
 
-> **Available for freelance & part-time engineering work** — backend, full-stack, APIs, SaaS, data systems, and automation.
+> **Available for remote freelance & part-time engineering work (~10–20h/week)** — backend, full-stack, APIs, SaaS, data systems, and automation.
 
 📍 Based in Brazil · 🌎 Remote-friendly · 🛠️ Python, TypeScript, PostgreSQL
 
@@ -16,10 +16,10 @@ I care about the decisions behind a system: who owns the data, what happens when
 
 | Project | What I built / what it demonstrates |
 |---|---|
-| **[OpenWEC](https://github.com/palomacdev/openwec)** · **[Live platform](https://openwec.com)** | Open-source endurance racing data platform spanning five series. Collection pipelines, PostgreSQL, FastAPI API, Python SDK, React dashboard, tests, documentation, and deployment — built end to end. |
-| **Alphecca** · *private* | Multi-tenant B2B quotation SaaS with organization-scoped data access, RBAC, customers and suppliers, versioned quotations, backend-owned monetary calculations, public proposal flows, auditability, and Dockerized infrastructure. |
+| **[OpenWEC](https://github.com/palomacdev/openwec)** · **[Live platform](https://openwec.com)** | Open-source endurance racing data platform covering five series and **2M+ laps**. Collection pipelines, PostgreSQL, FastAPI API, Python SDK, React dashboard, analytics, tests, documentation, and deployment — built end to end. |
+| **[Alphecca](https://alphecca.com.br)** · *private codebase* | Multi-tenant B2B quotation SaaS with organization-scoped data access, RBAC, customers and suppliers, versioned quotations, backend-owned monetary calculations, public proposal flows, auditability, and Dockerized infrastructure. |
 | **Talos** · *private* | Application observability platform built around HTTP, SSL, and heartbeat monitoring. Raw observations drive monitor state, incident lifecycles, and alerting while preserving tenant isolation. |
-| **[PLOT / Heavenverso](https://heavenverso.com.br)** · **Live** | Product thinking, editorial design, and frontend engineering for author websites. A different side of my work: turning a creative identity into a production web experience. |
+| **[PLOT](https://plotdev.com.br)** · **Live** | Web studio for authors built with Astro — product thinking, editorial design, frontend engineering, and production delivery. **[Heavenverso](https://heavenverso.com.br)** is a live client project built through PLOT. |
 
 ### Other projects & research
 
@@ -47,6 +47,6 @@ Also building **Argos** (CRM), **Asterism** (local-first knowledge graph), and *
 
 ## Let's work together
 
-I'm interested in **remote freelance and part-time collaborations**, especially SaaS products, backend/API development, internal tools, automation, data-heavy applications, and existing products that need someone who can take ownership of a feature from problem to production.
+I'm available for **remote freelance and part-time collaborations (~10–20h/week)**, especially SaaS products, backend/API development, internal tools, automation, data-heavy applications, and existing products that need someone who can take ownership of a feature from problem to production.
 
-📫 [LinkedIn](https://www.linkedin.com/in/paloma-cordeiro-119750b6) · [Email](mailto:palomacordeiro2009@hotmail.com) · [OpenWEC](https://openwec.com)
+📫 [LinkedIn](https://www.linkedin.com/in/paloma-cordeiro-119750b6) · [Email](mailto:palomacordeiro2009@hotmail.com) · [OpenWEC](https://openwec.com) · [Alphecca](https://alphecca.com.br) · [PLOT](https://plotdev.com.br)
